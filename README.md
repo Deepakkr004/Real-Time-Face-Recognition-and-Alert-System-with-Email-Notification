@@ -30,7 +30,7 @@ face-recognition-alert-system/
 ## ⚙️ Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/face-recognition-alert-system.git
+   git clone 
    
 Add known faces:
 
